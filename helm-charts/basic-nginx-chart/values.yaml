@@ -1,5 +1,5 @@
 replicaCount: 2
-namespace: <+pipeline.stages.cs1.spec.execution.steps.ShellScript_1.output.outputVariables.rishi1>
+namespace: <+pipeline.stages.cs1.spec.execution.steps.ShellScript_1.output.outputVariables.rishi2>
 image:
   repository: nginx
   tag: stable
